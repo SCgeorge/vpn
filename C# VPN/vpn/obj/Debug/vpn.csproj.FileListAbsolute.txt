@@ -1,0 +1,10 @@
+G:\C# VPN\vpn\bin\Debug\vpn.exe.config
+G:\C# VPN\vpn\bin\Debug\vpn.exe
+G:\C# VPN\vpn\bin\Debug\vpn.pdb
+G:\C# VPN\vpn\obj\Debug\vpn.csproj.AssemblyReference.cache
+G:\C# VPN\vpn\obj\Debug\vpn.Form1.resources
+G:\C# VPN\vpn\obj\Debug\vpn.Properties.Resources.resources
+G:\C# VPN\vpn\obj\Debug\vpn.csproj.GenerateResource.cache
+G:\C# VPN\vpn\obj\Debug\vpn.csproj.CoreCompileInputs.cache
+G:\C# VPN\vpn\obj\Debug\vpn.exe
+G:\C# VPN\vpn\obj\Debug\vpn.pdb
